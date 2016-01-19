@@ -1,6 +1,6 @@
 "use strict";
 //
-/// getting first and last names
+// getting first and last names
 var first_name = prompt('Enter your first name: ');
 var last_name = prompt('Enter your last name: ')
 //
