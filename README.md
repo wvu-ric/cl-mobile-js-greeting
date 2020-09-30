@@ -1,4 +1,4 @@
-# Javascript Personal Greeting
+# Javascript Personal Greeting - An Awesome Project
 
 ## Instructions
 Fork this repository and write the necessary code in `script.js` to display an two prompt windows asking for the user's first and last names. Display an alert with the following format: "Hello %first% %last%" Submit the assignment by submitting a pull request. The steps to do that are as follows:
